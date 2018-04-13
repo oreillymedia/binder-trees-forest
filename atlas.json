@@ -1,0 +1,59 @@
+{
+  "branch": "master",
+  "files": [
+    "index.ipynb"
+  ],
+  "formats": {
+    "pdf": {
+      "version": "web",
+      "toc": true,
+      "index": true,
+      "syntaxhighlighting": true,
+      "show_comments": false,
+      "color_count": false,
+      "trim_size": false
+    },
+    "epub": {
+      "toc": true,
+      "index": true,
+      "syntaxhighlighting": true,
+      "epubcheck": true,
+      "show_comments": false,
+      "downsample_images": false
+    },
+    "mobi": {
+      "toc": true,
+      "index": true,
+      "syntaxhighlighting": true,
+      "show_comments": false,
+      "downsample_images": false
+    },
+    "html": {
+      "toc": false,
+      "index": false,
+      "syntaxhighlighting": false,
+      "show_comments": false,
+      "consolidated": false,
+      "fragment": false,
+      "demote": true,
+      "additionalElementsToId": "p:not([id]), pre:not([id]), ul:not([id]), li:not([id]), a:not([id])",
+      "javascripts": [],
+      "stylesheets": []
+    }
+  },
+  "theme": "oreillymedia/lander-theme",
+  "title": "Machine Learning with Scikit-Learn: Trees and Forests",
+  "print_isbn13": "",
+  "lang": "en",
+  "templating": true,
+  "lander": {
+    "kernel_name": "python3",
+    "server_url": "https://oriole-prod.oreilly.com/9781492027881",
+    "kaltura_video_id": "0_zoutr0m5",
+    "kaltura_account": "1681692",
+    "kaltura_player": "35305222",
+    "cues_url": "cues.json",
+    "poster_url": "poster.png"
+  },
+  "accent_color": ""
+}

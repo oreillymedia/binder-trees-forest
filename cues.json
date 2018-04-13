@@ -1,0 +1,136 @@
+[
+	{
+		"time": [0,0],
+		"sel": "#introduction-ANIls3",
+		"text": "Introduction"
+	},
+	{
+		"time": [0,19],
+		"sel": "#id-JeIgsO",
+		"scroll": true
+	},
+	{
+		"time": [0,36],
+		"sel": "#id-mYhBFm",
+		"scroll": true
+	},
+	{
+		"time": [1,3],
+		"sel": "#id-OgIzT8",
+		"scroll": true,
+		"text": "Decision Trees"
+	},
+	{
+		"time": [2,52],
+		"sel": "#id-yYhzuGt1",
+		"scroll": true,
+		"text": "Creating a Decision Tree"
+	},
+	{
+		"time": [3,37],
+		"sel": "#id-yxIDSGt1",
+		"scroll": true
+	},
+	{
+		"time": [4,47],
+		"sel": "#id-eJhguMfJ",
+		"scroll": true,
+		"text": "Trees in Scikit-Learn"
+	},
+	{
+		"time": [5,20],
+		"sel": "#id-YkhNSZfD",
+		"scroll": true
+	},
+	{
+		"time": [6,2],
+		"sel": "#id-j2IvsPiV",
+		"scroll": true,
+		"text": "Overfitting"
+	},
+	{
+		"time": [6,44],
+		"sel": "#id-YkhxTbiD",
+		"scroll": true
+	},
+	{
+		"time": [7,50],
+		"sel": "#id-E3hoFQim",
+		"scroll": true
+	},
+	{
+		"time": [9,16],
+		"sel": "#id-BeIZsA",
+		"scroll": true,
+		"text": "Bagging and Random Forests"
+	},
+	{
+		"time": [9,59],
+		"sel": "#id-rYhlT9",
+		"scroll": true
+	},
+	{
+		"time": [11,21],
+		"sel": "#id-vYhmFw",
+		"scroll": true
+	},
+	{
+		"time": [12,16],
+		"sel": "#id-OgI5sM",
+		"scroll": true,
+		"text": "Random Forest Regression"
+	},
+	{
+		"time": [12,31],
+		"sel": "#id-WAhmS8",
+		"scroll": true
+	},
+	{
+		"time": [13,3],
+		"sel": "#id-jEhwFx",
+		"scroll": true
+	},
+	{
+		"time": [14,18],
+		"sel": "#id-mYhRug",
+		"scroll": true,
+		"text": "Example"
+	},
+	{
+		"time": [14,38],
+		"sel": "#id-vYhWSq",
+		"scroll": true
+	},
+	{
+		"time": [14,48],
+		"sel": "#id-yYhAFk",
+		"scroll": true
+	},
+	{
+		"time": [15,8],
+		"sel": "#id-wYhZfq",
+		"scroll": true
+	},
+	{
+		"time": [15,21],
+		"sel": "#id-qYhgcA",
+		"scroll": true
+	},
+	{
+		"time": [15,53],
+		"sel": "#id-pYhVuOUz",
+		"scroll": true,
+		"text": "Explore Hyperparameters"
+	},
+	{
+		"time": [16,48],
+		"sel": "#id-XDhxHyUn",
+		"scroll": true
+	},
+	{
+		"time": [17,47],
+		"sel": "#id-bAIDsX",
+		"scroll": true,
+		"text": "Summary"
+	}
+]
