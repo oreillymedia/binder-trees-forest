@@ -21,6 +21,7 @@ RUN python /home/jovyan/download_data.py
 COPY *.ipynb /home/jovyan/
 COPY lesson*.py /home/jovyan/
 COPY images /home/jovyan/images
+COPY figures /home/jovyan/figures
 
 USER root
 RUN chown $NB_USER:users /home/$NB_USER/*
